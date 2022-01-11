@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['name_4283',['name',['../class__hw__ops__ext_1_1ModuleLike.html#af7861fe0a27242b8638dc8b877cc25b4',1,'_hw_ops_ext.ModuleLike.name()'],['../classcirct_1_1esi_1_1capnp_1_1TypeSchema.html#a3566e58ac0e4e510629da6818bdcb7c0',1,'circt::esi::capnp::TypeSchema::name()'],['../structcirct_1_1esi_1_1capnp_1_1detail_1_1TypeSchemaImpl.html#a16992904e3ecfa31c45bd6025263b76c',1,'circt::esi::capnp::detail::TypeSchemaImpl::name()']]],
+  ['namecollisionresolver_4284',['NameCollisionResolver',['../structcirct_1_1ExportVerilog_1_1NameCollisionResolver.html#a5f06df9b2901bfae0292dbf036ec233f',1,'circt::ExportVerilog::NameCollisionResolver::NameCollisionResolver()=default'],['../structcirct_1_1ExportVerilog_1_1NameCollisionResolver.html#ade2e391b8722786c6b9bf96e5f84b465',1,'circt::ExportVerilog::NameCollisionResolver::NameCollisionResolver(const NameCollisionResolver &amp;)=delete']]],
+  ['namespace_4285',['Namespace',['../classcirct_1_1Namespace.html#aaf348c0e96c76eeab09efde466aba2b5',1,'circt::Namespace::Namespace()'],['../classcirct_1_1Namespace.html#ad6e27819b3ce0af69ef69236736f21ce',1,'circt::Namespace::Namespace(const Namespace &amp;other)=default'],['../classcirct_1_1Namespace.html#aab72d65da53534e7a5d65cb0f1318061',1,'circt::Namespace::Namespace(Namespace &amp;&amp;other)']]],
+  ['narrowextractwidth_4286',['narrowExtractWidth',['../CombFolds_8cpp.html#aceb857cd6c4e52c81441d213eac9dbb6',1,'CombFolds.cpp']]],
+  ['narrowoperationwidth_4287',['narrowOperationWidth',['../CombFolds_8cpp.html#a029c7c381a96009701429af2d5a940d5',1,'narrowOperationWidth(Operation *narrowingCandidate, ValueRange inputs, bool narrowTrailingBits, PatternRewriter &amp;rewriter, function_ref&lt; Value(ArrayRef&lt; Value &gt;)&gt; createOp):&#160;CombFolds.cpp'],['../CombFolds_8cpp.html#a7c9350e7148680945e8608749821ec50',1,'narrowOperationWidth(Op op, ValueRange inputs, bool narrowTrailingBits, PatternRewriter &amp;rewriter):&#160;CombFolds.cpp']]],
+  ['newname_4288',['newName',['../classcirct_1_1Namespace.html#ae577d61bcdd84af0acb69dba6f0b56db',1,'circt::Namespace']]],
+  ['nodeiterator_4289',['NodeIterator',['../structcirct_1_1firrtl_1_1InstanceGraph_1_1NodeIterator.html#a666be5e59ee996db59a52bb1cdb5fd55',1,'circt::firrtl::InstanceGraph::NodeIterator']]],
+  ['nodes_5fbegin_4290',['nodes_begin',['../structllvm_1_1GraphTraits_3_01circt_1_1firrtl_1_1InstanceGraph_01_5_01_4.html#a57a465e06d77025cb6d0dc6c94518fca',1,'llvm::GraphTraits&lt; circt::firrtl::InstanceGraph * &gt;']]],
+  ['nodes_5fend_4291',['nodes_end',['../structllvm_1_1GraphTraits_3_01circt_1_1firrtl_1_1InstanceGraph_01_5_01_4.html#afccda5543a86ed2e0c2850091c2d28ce',1,'llvm::GraphTraits&lt; circt::firrtl::InstanceGraph * &gt;']]],
+  ['noresolve_4292',['noResolve',['../LowerAnnotations_8cpp.html#a574b06e852912dff1fd4c3e58fcf2efb',1,'LowerAnnotations.cpp']]],
+  ['nostorestomemory_4293',['noStoresToMemory',['../namespacecirct.html#a0e1876d32068f72a7c515ea9a9d90f52',1,'circt']]],
+  ['numblocksintr_4294',['numBlocksInTR',['../structcirct_1_1llhd_1_1TemporalRegionAnalysis.html#af0bedf9d3f5cbc8145d73baf6321d1ec',1,'circt::llhd::TemporalRegionAnalysis']]]
+];

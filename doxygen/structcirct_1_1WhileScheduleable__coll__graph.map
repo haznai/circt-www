@@ -1,0 +1,6 @@
+<map id="circt::WhileScheduleable" name="circt::WhileScheduleable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,188,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,95,88,121"/>
+<area shape="rect" id="node3" href="$structcirct_1_1WhileOpInterface.html" title="A structure that abstracts a WhileOp or PipelineWhileOp to provide a consistent interface." alt="" coords="113,95,283,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="155,5,241,32"/>
+</map>
